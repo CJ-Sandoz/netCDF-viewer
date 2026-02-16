@@ -1,0 +1,5 @@
+# netCDF-viewer dependencies
+# Python 3.x required
+
+ncompare>=0.3.0
+PySide6>=6.5.0

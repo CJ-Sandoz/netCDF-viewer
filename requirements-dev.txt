@@ -1,0 +1,6 @@
+# Dev/build dependencies for netCDF-viewer
+# Install with: pip install -r requirements-dev.txt
+# Includes runtime deps from requirements.txt
+
+-r requirements.txt
+pyinstaller>=6.0.0
